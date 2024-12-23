@@ -1,13 +1,10 @@
-# 💫 About Me:
-🎓 4th Year B.Tech in Computer Science student passionate about machine learning, deep learning, and computational efficiency.<br>💡 Currently working on music genre classification using CNNs and CRNNs, with a focus on transfer learning and multiframe techniques.<br>🌱 Exploring projects in healthcare QA models and plant growth pattern analysis using data-driven approaches.<br>🧑‍💻 Proficient in 8051 microcontroller programming, skilled in waveform generation and embedded systems.<br>📚 Aspiring to contribute to impactful research in AI, computational optimization, and practical real-world applications.<br>
-
 # About Me 👋
 
 - 🎓 Final-year B.Tech CSE student with a passion for technology and innovation.  
 - 🧠 Skilled in deep learning, machine learning, and natural language processing.  
 - 🌟 Experienced in developing systems like a **Music Genre Classification System**, **Rainfall Prediction Model**, and **Question Answering Systems** for healthcare applications.  
 - 🔧 Proficient in working with microcontrollers like **8051** and developing assembly programs for real-world interfacing projects.  
-- 💻 Enthusiastic about web development, cloud computing (**Certified AWS Cloud Practitioner**), and database management (**Oracle Certified Foundations Associate**).  
+- 💻 Enthusiastic about web development and database management (**Oracle Certified Foundations Associate**).  
 - 📚 Actively researching and exploring **Artificial Neural Networks**, **Convolutional Neural Networks (CNNs)**, and **transfer learning** techniques.  
 - 🌱 Currently working on my capstone project, focusing on innovative solutions in the tech domain.  
 - 🖥️ Familiar with tools like **KEIL µVision**, **Keras**, and **Python** for efficient development and problem-solving.  
