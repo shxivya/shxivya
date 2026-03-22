@@ -1,6 +1,6 @@
 # About Me 👋
 
-- 🎓 Final-year B.Tech CSE student with a passion for technology and innovation.  
+- 🎓B.Tech CSE graduate with a passion for technology and innovation.  
 - 🧠 Skilled in deep learning, machine learning, and natural language processing.  
 - 🌟 Experienced in developing systems like a **Music Genre Classification System**, **Rainfall Prediction Model**, and **Question Answering Systems** for healthcare applications.  
 - 🔧 Proficient in working with microcontrollers like **8051** and developing assembly programs for real-world interfacing projects.  
