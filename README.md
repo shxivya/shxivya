@@ -1,6 +1,6 @@
 <div align="center">
 
-# ₊˚⊹♡ hi angel, i'm shaivya ♡⊹˚₊
+# ₊˚⊹♡ hi, i'm shaivya ♡⊹˚₊
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=18&pause=1000&color=F7A8C4&center=true&vCenter=true&width=435&lines=building+dreamy+little+corners+of+the+internet...;creative+frontend+developer+%E2%9C%A8;designing+soft+%26+interactive+web+experiences+%E0%AD%A8%E0%AD%A7" />
 
